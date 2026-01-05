@@ -42,13 +42,6 @@ Passionate about building **scalable, clean, and high-performance web applicatio
 ## 📈 Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shifin-Malik&theme=tokyo-night)
 
-![snake gif](https://github.com/Shifin-Malik/Shifin-Malik/blob/output/github-snake-dark.svg)
-
----
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Shifin-Malik&theme=onestar&no-frame=true&margin-w=8)
-
 ---
 
 ## 👁 Profile Views
