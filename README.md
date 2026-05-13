@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I am a **BCA graduate** with hands-on experience in **frontend and backend web development**.  
 Passionate about building **scalable, clean, and high-performance web applications** using modern technologies.
 
